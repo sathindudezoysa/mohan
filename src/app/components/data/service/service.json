@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-charity",
+        "title": "Mission Education",
+        "image": "assets/img/service/5.jpg",
+        "shorttext": "Education is a national level programme of Mohan Lanka Foundation, an NGO for education which is committed to providing basic education and healthcare to underprivileged children. Mohan Lanka Foundation, an NGO for poor child education believes that whether you are addressing healthcare, poverty, population control, unemployment or human rights, there's no better place to start than in the corridors of education.Education is both the means as well as the end to a better life; means, because it empowers an individual to earn his/her livelihood and the end because it increases one's awareness on a range of issues – from healthcare to appropriate social behavior to understanding one's rights, and in the process evolve as a better citizen."
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-speech",
+        "title": "Ministries",
+        "image": "assets/img/service/6.jpg",
+        "shorttext": "Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod"
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-praying",
+        "title": "Our Church",
+        "image": "assets/img/service/7.jpg",
+        "shorttext": "Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod"
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-sermon",
+        "title": "Sermons",
+        "image": "assets/img/service/8.jpg",
+        "shorttext": "Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod"
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-charity",
+        "title": "Tithing",
+        "image": "assets/img/service/9.jpg",
+        "shorttext": "Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod"
+    },
+    {
+        "id": 6,
+        "icon": "flaticon-bible",
+        "title": "Property Church",
+        "image": "assets/img/service/10.jpg",
+        "shorttext": "Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod"
+    }
+]

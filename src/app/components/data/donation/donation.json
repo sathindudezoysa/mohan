@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/donation/5.jpg",
+        "title":"Child Education",
+        "shorttext":"Education transforms lives and breaks the cycle of poverty that traps so many children. The groundwork for a better life lies in education. It is the most powerful catalyst for social transformation. However, a child cannot be educated in isolation. Only an empowered family, especially the mother, would be willing to educate their child. Thus, rather than focusing on only one stage of a person's life, we believe in the lifecycle approach.",
+        "goal":85000,
+        "raised":52384
+    },
+    {
+        "id":2,
+        "image":"assets/img/donation/6.jpg",
+        "title":"Women's Empowerment",
+        "shorttext":" Various studies, as well as our experience, have shown that when we work towards women empowerment, the whole society benefits. But unfortunately in India, far from empowering women, most are denied even their basic rights like health, education of girls for women empowerment, employment and a respectable status in society. These people are in particular need of support. Please consider donating or fundraising to help more in similar situations",
+        "goal":78000,
+        "raised":49444
+    },
+    {
+        "id":3,
+        "image":"assets/img/donation/7.jpg",
+        "title":"Vocational training",
+        "shorttext":"Mohan Lanka Vocational Training project gives the young adults of Country the opportunity to develop the skills and obtain the qualifications they need to achieve their full potential.Many of these young adults have been able to complete their primary and secondary education thanks to our Child Sponsorship project.  This project focuses on supporting young adults to access training or higher education courses that will lead to their chosen career and enable them to contribute to Sri Lanka’s future prosperity.   ",
+        "goal":96400,
+        "raised":78334
+    },
+    {
+        "id":4,
+        "image":"assets/img/donation/8.jpg",
+        "title":"Empower Young People",
+        "shorttext":"Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod",
+        "goal":75000,
+        "raised":35984
+    },
+    {
+        "id":5,
+        "image":"assets/img/donation/9.jpg",
+        "title":"Donate Schools",
+        "shorttext":"Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod",
+        "goal":85000,
+        "raised":52384
+    },
+    {
+        "id":6,
+        "image":"assets/img/donation/10.jpg",
+        "title":"Protecting Children",
+        "shorttext":"Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod",
+        "goal":90000,
+        "raised":45684
+    }
+]

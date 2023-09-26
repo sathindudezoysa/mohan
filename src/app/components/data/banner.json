@@ -1,0 +1,19 @@
+[
+    
+    {
+        "id":2,
+        "image":"assets/img/banner/png/5.png",
+        "imageposition":"left",
+        "title":"It's not how much we give but how much love we put into giving.",
+        "text":"We work based on a multi-stakeholder approach with local partners both from civil society, government and private sector, based on mutual respect and with consideration for our partners’ autonomy.",
+        "position":"offset-lg-6"
+    },
+    {
+        "id":3,
+        "image":"assets/img/banner/png/6.png",
+        "imageposition":"",
+        "title":"Your donation can give children happy childhoods they deserve.",
+        "text":"We work based on a multi-stakeholder approach with local partners both from civil society, government and private sector, based on mutual respect and with consideration for our partners’ autonomy. ",
+        "position":""
+    }
+]

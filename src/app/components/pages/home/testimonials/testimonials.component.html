@@ -1,0 +1,45 @@
+<!-- Testimonials Start -->
+<section class="section sigma_testimonial-sec style-4">
+    <div class="container testimonial-section style-4">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="section-title text-start">
+                    <p class="subtitle">Testimonials</p>
+                    <h4 class="title">Stories that Inspire</h4>
+                    <p>Following a lifecycle approach, Mohan Lanka Foundation, among the top NGO in Sri Lanka, works intensively through focused welfare projects in four major areas – child education for poor children, healthcare for families, skills training and livelihood for youth, and community engagement through women empowerment. So far, we have been able to directly impact the lives of over 1 million children and families.</p>
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="sigma_testimonial style-4">
+                    <div class="sigma_testimonial-body">
+                        <div class="sigma_testimonial-image d-none d-lg-block">
+                            <div class="row justify-content-center align-items-center g-0">
+                                <div class="col-md-3">
+                                    <img src="assets/img/testimonials/c-img01.png" alt="img">
+                                </div>
+                                <div class="col-md-5 ms-3">
+                                    <img src="assets/img/testimonials/c-img04.png" alt="img">
+                                </div>
+                                <div class="col-md-3 ms-3">
+                                    <img src="assets/img/testimonials/c-img03.png" alt="img">
+                                </div>
+                            </div>
+                        </div>
+                        <i class="flaticon-right-quote icon"></i>
+                        <ngx-slick-carousel [config]="settings" class="sigma_testimonial-slider-1">
+                            <!-- Data -->
+                            <div class="sigma_testimonial-slider-item" ngxSlickItem *ngFor="let item of testimonials">
+                                <p>{{item.comment}}</p>
+                                <div class="sigma_testimonial-author" *ngFor="let author of getAuthor(item.author)">
+                                    <cite>{{author.name}}</cite>
+                                </div>
+                            </div>
+                            <!-- Data -->
+                        </ngx-slick-carousel>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Testimonials End -->

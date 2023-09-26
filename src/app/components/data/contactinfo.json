@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "subtitle":"Send Email",
+        "title":"Email Address",
+        "text":[
+            "info@mohanlanka.com",
+            "support@mohanlanka.com"
+        ],
+        "icon":"flaticon-email"
+    },
+    {
+        "id":2,
+        "subtitle":"Call Us Now",
+        "title":"Phone Number",
+        "text":[
+            "+94 7787 60001",
+            "+94 7736 28789"
+        ],
+        "icon":"flaticon-telephone"
+    },
+    {
+        "id":3,
+        "subtitle":"Find Us Here",
+        "title":"Location",
+        "text":[
+            "16/A Daddy Yankee Tower",
+            "Colombo 15, Sri Lanka"
+        ],
+        "icon":"flaticon-paper-plane"
+    }
+]
